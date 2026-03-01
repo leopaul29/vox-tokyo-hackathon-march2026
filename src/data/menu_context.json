@@ -1,0 +1,38 @@
+[
+  {
+    "dish_id": "item_001",
+    "kanji_name": "豚骨ラーメン",
+    "romaji_reading": "Tonkotsu Ramen",
+    "nutritional_tags": ["contains_pork", "wheat", "eggs"],
+    "cultural_note": "A rich, cloudy soup made from boiling pork bones for hours.",
+    "match_score": 40,
+    "image": "https://images.unsplash.com/photo-1557872943-16a5ac26437e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "dish_id": "item_002",
+    "kanji_name": "大トロ",
+    "romaji_reading": "Ootoro",
+    "nutritional_tags": ["seafood", "raw", "gluten_free", "halal_friendly"],
+    "cultural_note": "The fattiest and most prized part of the tuna. It melts in your mouth!",
+    "match_score": 98,
+    "image": "https://images.unsplash.com/photo-1625938146369-ce8227b61406?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "dish_id": "item_003",
+    "kanji_name": "枝豆",
+    "romaji_reading": "Edamame",
+    "nutritional_tags": ["vegan_friendly", "gluten_free", "halal_friendly"],
+    "cultural_note": "A classic izakaya starter. Lightly salted young soybeans.",
+    "match_score": 100,
+    "image": "https://images.unsplash.com/photo-1596796333917-802c632e293a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "dish_id": "item_004",
+    "kanji_name": "焼き鳥（たれ）",
+    "romaji_reading": "Yakitori (Tare)",
+    "nutritional_tags": ["contains_chicken", "soy_sauce"],
+    "cultural_note": "Grilled chicken skewers glazed with a sweet soy-based tare sauce.",
+    "match_score": 85,
+    "image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&q=80&w=800"
+  }
+]
